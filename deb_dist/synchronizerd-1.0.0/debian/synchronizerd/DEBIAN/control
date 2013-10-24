@@ -1,0 +1,8 @@
+Package: synchronizerd
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Ronnie Andrew <ronnieandrew92@gmail.com>
+Installed-Size: 65718
+Section: python
+Priority: optional
+Description: A simple folder synchronizer application that uses rsync.

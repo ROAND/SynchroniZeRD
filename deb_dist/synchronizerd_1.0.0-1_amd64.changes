@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Mon, 21 Oct 2013 22:27:16 -0200
+Source: synchronizerd
+Binary: synchronizerd
+Architecture: all
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Ronnie Andrew <ronnieandrew92@gmail.com>
+Changed-By: Ronnie Andrew <ronnieandrew92@gmail.com>
+Description: 
+ synchronizerd - A simple folder synchronizer application that uses rsync.
+Changes: 
+ synchronizerd (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ 340f66af7c4101bb7df5094d1aaeb557ec06bbb3 20134322 synchronizerd_1.0.0-1_all.deb
+Checksums-Sha256: 
+ 700bd3651bdefcae584e0388bab7f9623d210c67e17d013445113eb946f1fd8f 20134322 synchronizerd_1.0.0-1_all.deb
+Files: 
+ 16b55a11f03a3aabd8fc85da363afbdd 20134322 python optional synchronizerd_1.0.0-1_all.deb
