@@ -115,9 +115,11 @@ def find_data_file(filename):
         datadir = os.path.dirname(sys.executable)
         datadir = '/usr/lib/SynchroniZeRD-1.0.0/'
     else:
+        pass
         # The application is not frozen
-        datadir = os.path.dirname(__file__)
-    return os.path.join(datadir, filename)
+        #datadir = os.path.dirname('')
+
+    return os.path.join('../files', filename)
 
 
 if __name__ == "__main__":
