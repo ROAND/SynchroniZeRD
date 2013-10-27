@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+export PYTHONPATH=/home/ronnie/Desktop/wxPython/wxPython-src-2.9.5.0/wxPython
+export LD_LIBRARY_PATH=/home/ronnie/Programs/wxPython-src-2.9.5.0/wxPython/wxpy-bld/lib
+/usr/bin/python2 /opt/synchronizerd/synchronizerd.py
